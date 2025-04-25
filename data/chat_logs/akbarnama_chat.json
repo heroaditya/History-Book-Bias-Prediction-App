@@ -1,0 +1,38 @@
+[
+  {
+    "question": "init",
+    "answer": "I'm BiasBot \ud83e\udd16. You can ask me things like 'What is the bias score?', 'Who is most glorified?', or 'List bias terms'."
+  },
+  {
+    "question": "who is most glorified?",
+    "answer": "The most glorified ruler appears to be 'army command sultan purveiz'."
+  },
+  {
+    "question": "how is he glorified?",
+    "answer": "I couldn't find glorification mentions for 'He ?'."
+  },
+  {
+    "question": "how is army command sultan purveiz glorified?",
+    "answer": "I couldn't find glorification mentions for 'Army Command Sultan Purveiz ?'."
+  },
+  {
+    "question": "what is the bias score?",
+    "answer": "The bias score (glorifying mentions) is 0."
+  },
+  {
+    "question": "init",
+    "answer": "I'm BiasBot \ud83e\udd16. You can ask me things like 'What is the bias score?', 'Who is most glorified?', or 'List bias terms'."
+  },
+  {
+    "question": "what is the bias score?",
+    "answer": "The bias score (glorifying mentions) is 172.09."
+  },
+  {
+    "question": "list glorifying terms",
+    "answer": "Found glorifying terms like: ..."
+  },
+  {
+    "question": "init",
+    "answer": "I'm BiasBot \ud83e\udd16. You can ask me things like 'What is the bias score?', 'Who is most glorified?', or 'List bias terms'."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "init",
+    "answer": "I'm BiasBot \ud83e\udd16. You can ask me things like 'What is the bias score?', 'Who is most glorified?', or 'List bias terms'."
+  },
+  {
+    "question": "what is the bias score",
+    "answer": "The bias score (glorifying mentions) is 169."
+  },
+  {
+    "question": "who is most glorified?",
+    "answer": "The most glorified entity appears to be 'F'."
+  },
+  {
+    "question": "how is ashoka glorified?",
+    "answer": "I couldn't find specific glorification mentions for 'Ashoka ?'."
+  },
+  {
+    "question": "list glorifying terms .",
+    "answer": "Found glorifying terms like: amir, benevolent, brave, celebrated, divine, eternal, exalted, fearless, generous, gentle..."
+  },
+  {
+    "question": "init",
+    "answer": "I'm BiasBot \ud83e\udd16. You can ask me things like 'What is the bias score?', 'Who is most glorified?', or 'List bias terms'."
+  }
+]
